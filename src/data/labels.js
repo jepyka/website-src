@@ -10,5 +10,23 @@ export default {
       'eng': 'Francais',
       'fra': 'English'
     }
+  },
+  'navigation': {
+    'products': {
+      'eng': 'Products',
+      'fra': 'Produits'
+    },
+    'company': {
+      'eng': 'Company',
+      'fra': 'Compagnie'
+    },
+    'recipes': {
+      'eng': 'Recipes',
+      'fra': 'Recettes'
+    },
+    'contacts': {
+      'eng': 'Contacts',
+      'fra': 'Coordonnées'
+    }
   }
 }

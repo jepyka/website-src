@@ -1,5 +1,35 @@
 /* Show it is fixed to the top */
 body {
-  min-height: 75rem;
   padding-top: 4.5rem;
+}
+
+nav {
+  .collapsing, .collapse {
+    ul {
+      text-align: center;
+
+      @media (max-width: 767px) {
+        background-color: rgba(0, 0, 0, .7);
+
+        li {
+          a.nav-link {
+            /*color: rgba(255, 255, 255, 1);*/
+          }
+        }
+      }
+
+      li {
+        font-family: "Montserrat", sans-serif;
+        padding-left: 15px;
+        padding-right: 15px;
+        font-size: 1em;
+      }
+    }
+
+    .tools {
+      li {
+        font-size: .7em;
+      }
+    }
+  }
 }
