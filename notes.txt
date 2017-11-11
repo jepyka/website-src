@@ -1,0 +1,7 @@
+References used in this project:
+
+Absolute Imports with Create React App
+https://medium.com/@ktruong008/absolute-imports-with-create-react-app-4338fbca7e3d
+
+CSS3 Fullscreen Slideshow
+https://tympanus.net/Tutorials/CSS3FullscreenSlideshow/

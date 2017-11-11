@@ -1,0 +1,16 @@
+{
+  "contacts": {
+    "primary": {
+      "name": "Jean-Pierre Vautour",
+      "email": "info@jepyka.ca",
+      "phone": "(506) 876-2078",
+      "address": {
+        "street": "270 chemin Saint-Olivier",
+        "city": "Saint-Louis",
+        "province": "NB",
+        "postalcode": "E4X 1Z9",
+        "country": "Canada"
+      }
+    }
+  }
+}
